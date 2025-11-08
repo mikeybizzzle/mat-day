@@ -9,5 +9,10 @@
   ],
   "disabledMcpjsonServers": [
     "google-sheets"
-  ]
+  ],
+  "permissions": {
+    "allow": [
+      "Bash(gh repo create:*)"
+    ]
+  }
 }
